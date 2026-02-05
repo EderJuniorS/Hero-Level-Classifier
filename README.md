@@ -68,7 +68,7 @@ git clone https://github.com/EderJuniorS/Hero-Level-Classifier.git
 
 Navegue até a pasta:
 ```bash
-cd Classificador-de-Nivel-de-Heroi
+cd Hero-Level-Classifier
 ```
 
 Execute o script:
