@@ -63,7 +63,7 @@ Este projeto requer o Node.js instalado.
 
 Clone o repositório:
 ```bash
-git clone https://github.com/EderJuniorS/Classificador-de-Nivel-de-Heroi.git
+git clone https://github.com/EderJuniorS/Hero-Level-Classifier.git
 ```
 
 Navegue até a pasta:
